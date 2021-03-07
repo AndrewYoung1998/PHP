@@ -1,0 +1,37 @@
+[27-Apr-2020 14:19:50 GMT] PHP Warning:  include(includes/dbConnect.php): failed to open stream: No such file or directory in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/index.php on line 2
+[27-Apr-2020 14:19:50 GMT] PHP Warning:  include(includes/dbConnect.php): failed to open stream: No such file or directory in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/index.php on line 2
+[27-Apr-2020 14:19:50 GMT] PHP Warning:  include(): Failed opening 'includes/dbConnect.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/index.php on line 2
+[27-Apr-2020 14:20:57 GMT] PHP Warning:  include(includes/dbConnect.php): failed to open stream: No such file or directory in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/index.php on line 2
+[27-Apr-2020 14:20:57 GMT] PHP Warning:  include(includes/dbConnect.php): failed to open stream: No such file or directory in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/index.php on line 2
+[27-Apr-2020 14:20:57 GMT] PHP Warning:  include(): Failed opening 'includes/dbConnect.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/index.php on line 2
+[27-Apr-2020 14:20:59 GMT] PHP Warning:  include(includes/dbConnect.php): failed to open stream: No such file or directory in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/index.php on line 2
+[27-Apr-2020 14:20:59 GMT] PHP Warning:  include(includes/dbConnect.php): failed to open stream: No such file or directory in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/index.php on line 2
+[27-Apr-2020 14:20:59 GMT] PHP Warning:  include(): Failed opening 'includes/dbConnect.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/index.php on line 2
+[27-Apr-2020 14:21:14 GMT] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'ceeqoghy_bwm250'@'localhost' to database 'User' in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/includes/dbConnect.php on line 10
+[27-Apr-2020 14:24:39 GMT] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'ceeqoghy_bwm250'@'localhost' to database 'User' in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/includes/dbConnect.php on line 10
+[27-Apr-2020 14:24:58 GMT] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'ceeqoghy_bwm250'@'184.154.45.210' to database 'User' in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/includes/dbConnect.php on line 10
+[27-Apr-2020 14:26:14 GMT] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'ceeqoghy_bwm250'@'184.154.45.210' to database 'User' in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/includes/dbConnect.php on line 10
+[27-Apr-2020 14:26:20 GMT] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'ceeqoghy_bwm250'@'localhost' to database 'User' in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/includes/dbConnect.php on line 10
+[27-Apr-2020 14:27:54 GMT] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'ceeqoghy_bwm250'@'localhost' to database 'User' in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/includes/dbConnect.php on line 10
+[27-Apr-2020 14:28:00 GMT] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'ceeqoghy_bwm250'@'localhost' to database 'User' in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/includes/dbConnect.php on line 10
+[27-Apr-2020 14:29:07 GMT] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'ceeqoghy_bwm250'@'localhost' to database 'User' in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/includes/dbConnect.php on line 10
+[27-Apr-2020 14:29:13 GMT] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'ceeqoghy_bwm250'@'localhost' to database 'User' in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/includes/dbConnect.php on line 10
+[27-Apr-2020 14:29:15 GMT] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'ceeqoghy_bwm250'@'localhost' to database 'User' in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/includes/dbConnect.php on line 10
+[27-Apr-2020 15:03:26 GMT] PHP Parse error:  syntax error, unexpected '{' in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/index.php on line 4
+[27-Apr-2020 16:31:45 GMT] PHP Parse error:  syntax error, unexpected end of file in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/register.php on line 90
+[28-Apr-2020 22:43:15 GMT] PHP Warning:  mysqli_query(): Empty query in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/register.php on line 51
+[29-Apr-2020 00:53:13 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/register.php on line 52
+[29-Apr-2020 01:00:11 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/register.php on line 52
+[30-Apr-2020 04:25:19 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli() in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/login.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/login.php on line 11
+[30-Apr-2020 04:29:07 GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/login.php on line 14
+[30-Apr-2020 04:39:06 GMT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/login.php on line 24
+[30-Apr-2020 04:39:35 GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/login.php on line 15
+[30-Apr-2020 04:41:26 GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/login.php on line 16
+[30-Apr-2020 04:41:56 GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/login.php on line 16
+[30-Apr-2020 04:44:18 GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/login.php on line 17
+[30-Apr-2020 05:16:07 GMT] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/login.php on line 13
+[30-Apr-2020 05:18:14 GMT] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/login.php on line 13
+[30-Apr-2020 05:18:18 GMT] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/login.php on line 13

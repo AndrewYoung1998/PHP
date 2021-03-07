@@ -1,0 +1,19 @@
+[29-Apr-2020 16:02:00 GMT] PHP Warning:  include(includes/dbConnect.php): failed to open stream: No such file or directory in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/private/index.php on line 4
+[29-Apr-2020 16:02:00 GMT] PHP Warning:  include(includes/dbConnect.php): failed to open stream: No such file or directory in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/private/index.php on line 4
+[29-Apr-2020 16:02:00 GMT] PHP Warning:  include(): Failed opening 'includes/dbConnect.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/private/index.php on line 4
+[29-Apr-2020 16:21:30 GMT] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING) in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/private/index.php on line 7
+[29-Apr-2020 16:35:09 GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/private/index.php on line 10
+[30-Apr-2020 05:56:27 GMT] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/private/index.php on line 10
+[30-Apr-2020 06:37:57 GMT] PHP Warning:  unlink(upload/): No such file or directory in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/private/index.php on line 70
+[30-Apr-2020 06:38:35 GMT] PHP Warning:  unlink(upload/): No such file or directory in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/private/index.php on line 70
+[30-Apr-2020 06:39:09 GMT] PHP Warning:  unlink(upload/): No such file or directory in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/private/index.php on line 70
+[30-Apr-2020 06:40:46 GMT] PHP Warning:  unlink(upload/profile.jpg): No such file or directory in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/private/index.php on line 70
+[04-May-2020 04:12:10 GMT] PHP Warning:  unlink(uploads/profile.jpg): No such file or directory in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/private/index.php on line 144
+[04-May-2020 04:12:26 GMT] PHP Warning:  unlink(uploads/profile.jpg): No such file or directory in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/private/index.php on line 144
+[04-May-2020 04:12:44 GMT] PHP Warning:  unlink(uploads/profile.jpg): No such file or directory in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/private/index.php on line 144
+[04-May-2020 04:15:51 GMT] PHP Warning:  unlink(uploads/profile.jpg): No such file or directory in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/private/index.php on line 50
+[04-May-2020 04:17:11 GMT] PHP Warning:  unlink(uploads/profile.jpg): No such file or directory in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/private/index.php on line 50
+[04-May-2020 04:41:23 GMT] PHP Warning:  unlink(uploads/profile.jpg): No such file or directory in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/private/index.php on line 53
+[04-May-2020 04:53:04 GMT] PHP Warning:  unlink(uploads/profile.jpg): No such file or directory in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/private/index.php on line 53
+[04-May-2020 04:55:08 GMT] PHP Warning:  unlink(uploads/profile.jpg): No such file or directory in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/private/index.php on line 53
+[04-May-2020 04:57:07 GMT] PHP Warning:  unlink(uploads/profile.jpg): No such file or directory in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/final/private/index.php on line 53
