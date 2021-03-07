@@ -1,0 +1,4 @@
+[08-Apr-2020 22:35:06 America/New_York] PHP Parse error:  syntax error, unexpected '"' in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/assignment4/index.php on line 37
+[08-Apr-2020 22:35:56 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/assignment4/index.php on line 38
+[08-Apr-2020 23:20:56 America/New_York] PHP Warning:  mkdir(): File exists in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/assignment4/index.php on line 37
+[09-Apr-2020 17:51:54 America/New_York] PHP Warning:  mkdir(): File exists in /home3/ceeqoghy/public_html/bwm250.andrewyoung.space/assignment4/index.php on line 37
